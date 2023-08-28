@@ -1,0 +1,1 @@
+import{_ as t,X as o,Y as r,Z as e,$ as a}from"./framework-a8949fcd.js";const n={},s=e("h1",{id:"介绍网址",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#介绍网址","aria-hidden":"true"},"#"),a(" 介绍网址")],-1),c=e("p",null,"Hello,world!",-1),_=[s,c];function d(l,i){return o(),r("div",null,_)}const f=t(n,[["render",d],["__file","intro.html.vue"]]);export{f as default};
